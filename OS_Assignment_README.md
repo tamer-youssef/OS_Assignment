@@ -1,5 +1,3 @@
-# OS_Assignment
-
 ## Run these files on Ubuntu
 1. Task_1.c
 2. Task_2.c
