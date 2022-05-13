@@ -1,7 +1,14 @@
 #include <unistd.h>
 #include <stdio.h>
-#include <sys/wait.h>
 #include <stdlib.h>
+
+// to run this file:
+// run cmd
+// navigate to this program's file location
+// run these commands:
+//      gcc -o T2 Task_2.c
+//      ./T2
+
 int main()
 {
     int fd_1[2];
